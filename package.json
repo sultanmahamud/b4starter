@@ -1,0 +1,23 @@
+{
+  "name": "ame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "browser-sync": "^2.26.3",
+    "browsersync": "0.0.1-security",
+    "font-awesome": "^4.7.0",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "jquery": "^3.3.1",
+    "jquery-animated-headlines": "^1.0.0",
+    "popper.js": "^1.14.6"
+  }
+}
