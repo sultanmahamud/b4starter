@@ -1,0 +1,12 @@
+body{
+    background:$body-bg;
+    color: $font-color;
+    text-transform: capitalize;
+
+}
+.navbar{
+    border-bottom:3px solid $primary-color;
+    opacity: 0.9;
+}
+
+
